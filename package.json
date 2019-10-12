@@ -2,7 +2,7 @@
   "name": "react-online-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ian-Liao.github.io",
+  "homepage": "http://ian-liao.github.io/react-online-resume",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.10.2",
