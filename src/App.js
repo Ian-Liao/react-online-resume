@@ -28,7 +28,7 @@ class App extends Component {
     var dataUrl = '/resumeData.json';
     if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator)
     {
-        dataUrl = `${process.env.PUBLIC_URL}/resumeData.json`;
+        dataUrl = `${process.env.PUBLIC_URL}/react-online-resume/resumeData.json`;
     }
     $.ajax({
       url:dataUrl,
@@ -38,8 +38,8 @@ class App extends Component {
         this.setState({resumeData: data});
       }.bind(this),
       error: function(xhr, status, err){
-        console.log(process.env.PUBLIC_URL);
-        alert(process.env.PUBLIC_URL);
+        console.log(err);
+        alert(err);
       }
     });
   }
