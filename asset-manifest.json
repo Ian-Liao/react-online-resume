@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-online-resume/static/css/main.5facb584.chunk.css",
+    "main.js": "/react-online-resume/static/js/main.dc90c225.chunk.js",
+    "main.js.map": "/react-online-resume/static/js/main.dc90c225.chunk.js.map",
+    "runtime-main.js": "/react-online-resume/static/js/runtime-main.4e4c0485.js",
+    "runtime-main.js.map": "/react-online-resume/static/js/runtime-main.4e4c0485.js.map",
+    "static/js/2.5141b57c.chunk.js": "/react-online-resume/static/js/2.5141b57c.chunk.js",
+    "static/js/2.5141b57c.chunk.js.map": "/react-online-resume/static/js/2.5141b57c.chunk.js.map",
+    "index.html": "/react-online-resume/index.html",
+    "precache-manifest.b4451a0d2868d129c08d975ae60632fa.js": "/react-online-resume/precache-manifest.b4451a0d2868d129c08d975ae60632fa.js",
+    "service-worker.js": "/react-online-resume/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/react-online-resume/static/css/main.5facb584.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4c0485.js",
+    "static/js/2.5141b57c.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.dc90c225.chunk.js"
+  ]
+}
