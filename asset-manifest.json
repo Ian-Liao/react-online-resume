@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-online-resume/static/css/main.5facb584.chunk.css",
-    "main.js": "/react-online-resume/static/js/main.a14a839c.chunk.js",
-    "main.js.map": "/react-online-resume/static/js/main.a14a839c.chunk.js.map",
+    "main.js": "/react-online-resume/static/js/main.90379573.chunk.js",
+    "main.js.map": "/react-online-resume/static/js/main.90379573.chunk.js.map",
     "runtime-main.js": "/react-online-resume/static/js/runtime-main.4e4c0485.js",
     "runtime-main.js.map": "/react-online-resume/static/js/runtime-main.4e4c0485.js.map",
     "static/js/2.5141b57c.chunk.js": "/react-online-resume/static/js/2.5141b57c.chunk.js",
     "static/js/2.5141b57c.chunk.js.map": "/react-online-resume/static/js/2.5141b57c.chunk.js.map",
     "index.html": "/react-online-resume/index.html",
-    "precache-manifest.9bdf865191daf66a130bedae6257ed28.js": "/react-online-resume/precache-manifest.9bdf865191daf66a130bedae6257ed28.js",
+    "precache-manifest.e8c05847efe40415491cd7847b2d3290.js": "/react-online-resume/precache-manifest.e8c05847efe40415491cd7847b2d3290.js",
     "service-worker.js": "/react-online-resume/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/react-online-resume/static/css/main.5facb584.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4e4c0485.js",
     "static/js/2.5141b57c.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.a14a839c.chunk.js"
+    "static/js/main.90379573.chunk.js"
   ]
 }
