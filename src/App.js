@@ -28,7 +28,7 @@ class App extends Component {
     var dataUrl = '/resumeData.json';
     if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator)
     {
-        dataUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
+        dataUrl = `${process.env.PUBLIC_URL}/resumeData.json`;
     }
     $.ajax({
       url:dataUrl,
