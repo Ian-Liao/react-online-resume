@@ -38,7 +38,7 @@ class App extends Component {
         this.setState({resumeData: data});
       }.bind(this),
       error: function(xhr, status, err){
-        console.log(err);
+        console.log(process.env.PUBLIC_URL);
         alert(process.env.PUBLIC_URL);
       }
     });
