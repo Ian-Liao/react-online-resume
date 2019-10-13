@@ -14,6 +14,10 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator)
+      {
+         resumeDownload = process.env.PUBLIC_URL+"/"+resumeDownload;
+      }
     }
 
     return (
