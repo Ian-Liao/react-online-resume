@@ -62,13 +62,13 @@
         "company":"Verafin",
         "title":"Software Developer",
         "duration":"April 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"•\tImplemented multiple analytic modules using Java8 and Guava to build evidence for information cards of alerts on the frontend\n•\tWrote different CaseFixes methods and related unittest to filter out the bad ATM location data which largely reduces the number of false positive alerts\n•\tAdapted patch files to create or update configuration in the database and used hydra\nquery to confirm the data is correct throughout all warehouses\n"
       },
       {
         "company":"Gengmei, Inc.",
         "title":"Backend Developer",
         "duration":"November 2017 - May 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"•\tImplemented underlying RPC unit for communication of the microservice-based application\n•\tRefactored PC site pages, including index page, live streaming page, doctor page, hospital page\n•\tRefined the popup greeting strategy using Redis list to present advertisements in a rotation matters\n"
       }
     ],
     "skills":[
