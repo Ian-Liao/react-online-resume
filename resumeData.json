@@ -107,7 +107,7 @@
       {
         "title":"GradRec system",
         "category":"A system builds the connection between graduate student candidates and the professors",
-        "image":"canadian-wanderlust.jpg",
+        "image":"Grad-Rec-system.png",
         "url":"https://github.com/COMP6905-SOFTWARE-ENGINEERING/Software-Engineering-project"
       },
       {
@@ -119,7 +119,7 @@
       {
         "title":"Machine Learning coursework",
         "category":"This repo is a series of machine learning models built throughout the COMP6915 course",
-        "image":"machine-learing.jpeg",
+        "image":"machine-learning.jpeg",
         "url":"https://github.com/Ian-Liao/COMP6915-Machine-Learning"
       },
       {
