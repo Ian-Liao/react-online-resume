@@ -4,8 +4,8 @@
     "occupation":"Software Developer",
     "description":"I am a second year master student majored in Computer Science at MUN right now. I really enjoy my time in Canada and hope I can fulfill my dream here and explore more...",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Web and App developer - Python, Java, Nodejs, SQL, HTML, CSS, Javascript",
+    "contactmessage":"Wanna say something?",
     "email": "yliao@mun.com",
     "phone": "709-771-9697",
     "address":{
@@ -69,6 +69,18 @@
         "title":"Backend Developer",
         "duration":"November 2017 - May 2018",
         "description":"•\tImplemented underlying RPC unit for communication of the microservice-based application\n•\tRefactored PC site pages, including index page, live streaming page, doctor page, hospital page\n•\tRefined the popup greeting strategy using Redis list to present advertisements in a rotation matters\n"
+      },
+      {
+        "company":"Youku, Inc.",
+        "title":"Backend Developer",
+        "duration":"August 2015 - May 2017",
+        "description":"•\tImplemented and maintained new requirements and APIs of play, index page, channel page, subchannel page\n•\tApplied different types of High Availability strategies such as cache, fuse and hot standby \nto provide more stable API for IOS and Android clients\n•\tCollaborated with maintenance engineer to upgrade system, handle malfunctions and analyze log\n•\tGuaranteed the availability with no significant malfunctions on underlying services to support 300~400 million play times per day including all mobile platforms\n"
+      },
+      {
+        "company":"TravelSky Technology",
+        "title":"Web Developer",
+        "duration":"July 2014 - August 2015",
+        "description":"•\tDeveloped and refactored business module in order to organize over 2,000 services according to their product lines\n•\tInvestigated and implemented service module including our core resources such as database and networking\n•\tImplemented management, relocation and support modules with both front-end and back-end\n"
       }
     ],
     "skills":[
