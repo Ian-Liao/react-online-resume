@@ -113,25 +113,25 @@
       {
         "title":"Leetcode solutions",
         "category":"This repo is a collection of my leetcode solutions by c++, python, javascript and java",
-        "image":"fury-fighting-gear.jpg",
+        "image":"leetcode-progress.png",
         "url":"https://github.com/Ian-Liao/leetcode"
       },
       {
         "title":"Machine Learning coursework",
         "category":"This repo is a series of machine learning models built throughout the COMP6915 course",
-        "image":"original-thai-food.jpg",
+        "image":"machine-learing.jpeg",
         "url":"https://github.com/Ian-Liao/COMP6915-Machine-Learning"
       },
       {
         "title":"Database coursework",
         "category":"This repo contains two projects I finished for the COMP6908 course",
-        "image":"resume-website.jpg",
+        "image":"database.jpeg",
         "url":"https://github.com/Ian-Liao/COMP6908-Database"
       },
       {
         "title":"dotfiles",
         "category":"This is a collection of my personal mac settings for zsh, vim, git, etc.",
-        "image":"smirkspace.jpg",
+        "image":"dotfiles.png",
         "url":"https://github.com/Ian-Liao/dotfiles"
       }
     ]
