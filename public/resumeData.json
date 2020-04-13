@@ -74,11 +74,11 @@
     "skills":[
       {
         "name":"Git",
-        "level":"90%"
+        "level":"88%"
       },
       {
         "name":"Python",
-        "level":"92%"
+        "level":"89%"
       },
       {
         "name":"Java",
@@ -94,7 +94,7 @@
       },
       {
         "name":"MySQL",
-        "level":"95%"
+        "level":"91%"
       },
       {
         "name":"MongoDB",
@@ -129,10 +129,16 @@
         "url":"https://github.com/Ian-Liao/COMP6908-Database"
       },
       {
-        "title":"dotfiles",
-        "category":"This is a collection of my personal mac settings for zsh, vim, git, etc.",
-        "image":"dotfiles.png",
-        "url":"https://github.com/Ian-Liao/dotfiles"
+        "title":"Water quality system",
+        "category":"project for the hacking mount pearl 2019",
+        "image":"qualiteas.png",
+        "url":"https://github.com/QualiTEAS/water-quality-system"
+      },
+      {
+        "title":"SRGAN web app",
+        "category":"A web app for generating photo-realistic Super-Resolution Images/Videos based on SRGAN",
+        "image":"srgan.png",
+        "url":"https://github.com/ENGI9805-COMPUTER-VISION/Term-Project"
       }
     ]
   },
