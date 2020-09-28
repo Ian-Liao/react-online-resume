@@ -12,10 +12,10 @@
       "street":"",
       "city":"St. John's",
       "province":"Newfoundland",
-      "zip": "A1B 3G2"
+      "zip": "A1B 2E1"
     },
     "website": "https://ian-liao.github.io/react-online-resume/",
-    "resumedownload":"Resume-Yuhao Liao.pdf",
+    "resumedownload":"Resume-Yuhao Liao-2019.10.pdf",
     "social":[
       {
         "name":"facebook",
@@ -45,7 +45,7 @@
       {
         "school":"Memorial University of Newfoundland",
         "location":"St. John's NL, Canada",
-        "duration":"September 2018 - September 2020",
+        "duration":"September 2018 - Present",
         "degree":"Master of Science",
         "fieldOfStudy":"Computer Science"
       },
@@ -61,7 +61,7 @@
       {
         "company":"Verafin",
         "title":"Software Developer",
-        "duration":"April 2019 - December 2019",
+        "duration":"April 2019 - Present",
         "description":"•\tImplemented multiple analytic modules using Java8 and Guava to build evidence for information cards of alerts on the frontend\n•\tWrote different CaseFixes methods and related unittest to filter out the bad ATM location data which largely reduces the number of false positive alerts\n•\tAdapted patch files to create or update configuration in the database and used hydra\nquery to confirm the data is correct throughout all warehouses\n"
       },
       {
@@ -86,11 +86,11 @@
     "skills":[
       {
         "name":"Git",
-        "level":"90%"
+        "level":"88%"
       },
       {
         "name":"Python",
-        "level":"92%"
+        "level":"89%"
       },
       {
         "name":"Java",
@@ -106,7 +106,7 @@
       },
       {
         "name":"MySQL",
-        "level":"95%"
+        "level":"91%"
       },
       {
         "name":"MongoDB",
@@ -141,10 +141,16 @@
         "url":"https://github.com/Ian-Liao/COMP6908-Database"
       },
       {
-        "title":"dotfiles",
-        "category":"This is a collection of my personal mac settings for zsh, vim, git, etc.",
-        "image":"dotfiles.png",
-        "url":"https://github.com/Ian-Liao/dotfiles"
+        "title":"Water quality system",
+        "category":"project for the hacking mount pearl 2019",
+        "image":"qualiteas.png",
+        "url":"https://github.com/QualiTEAS/water-quality-system"
+      },
+      {
+        "title":"SRGAN web app",
+        "category":"A web app for generating photo-realistic Super-Resolution Images/Videos based on SRGAN",
+        "image":"srgan.png",
+        "url":"https://github.com/ENGI9805-COMPUTER-VISION/Term-Project"
       }
     ]
   },
