@@ -12,10 +12,10 @@
       "street":"",
       "city":"St. John's",
       "province":"Newfoundland",
-      "zip": "A1B 2E1"
+      "zip": "A1B 3G2"
     },
     "website": "https://ian-liao.github.io/react-online-resume/",
-    "resumedownload":"Resume-Yuhao Liao-2019.10.pdf",
+    "resumedownload":"Resume-Yuhao Liao.pdf",
     "social":[
       {
         "name":"facebook",
@@ -45,7 +45,7 @@
       {
         "school":"Memorial University of Newfoundland",
         "location":"St. John's NL, Canada",
-        "duration":"September 2018 - Present",
+        "duration":"September 2018 - September 2020",
         "degree":"Master of Science",
         "fieldOfStudy":"Computer Science"
       },
@@ -61,7 +61,7 @@
       {
         "company":"Verafin",
         "title":"Software Developer",
-        "duration":"April 2019 - Present",
+        "duration":"April 2019 - December 2019",
         "description":"•\tImplemented multiple analytic modules using Java8 and Guava to build evidence for information cards of alerts on the frontend\n•\tWrote different CaseFixes methods and related unittest to filter out the bad ATM location data which largely reduces the number of false positive alerts\n•\tAdapted patch files to create or update configuration in the database and used hydra\nquery to confirm the data is correct throughout all warehouses\n"
       },
       {
